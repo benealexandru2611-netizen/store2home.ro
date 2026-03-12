@@ -14,7 +14,6 @@ const Index = () => {
         <SiteHeader />
         <HeroSection />
         <AboutSection />
-        <CategoriesSection />
         <ContactSection />
         <SignatureSection />
         <SiteFooter />
